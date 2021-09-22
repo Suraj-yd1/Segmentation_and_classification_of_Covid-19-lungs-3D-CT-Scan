@@ -1,0 +1,1 @@
+# Segmentation_and_classification_of_Covid-19-lungs-3D-CT-Scan
